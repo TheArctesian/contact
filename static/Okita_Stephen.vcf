@@ -10,6 +10,11 @@ item1.ADR;type=HOME;type=pref:;;Putnam 604\n2560 Durant Ave;Berkeley ;CA;94720;U
 item1.X-ABADR:us
 item2.ADR;type=HOME:;;House 120\nTai Hang Hau Village;Clearwater Bay;;NT;Hong Kong
 item2.X-ABADR:hk
+X-SOCIALPROFILE;type=Instagram;x-user=stephen.okita:x-apple:stephen.okita
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/https%3A//www.linkedin.com/in/stephen-okita-a9427b1b2
+X-SOCIALPROFILE;type=Snapchat;x-user=stephenokita1:x-apple:stephenokita1
+X-SOCIALPROFILE;type=GitHub;x-user=thearctesian:x-apple:thearctesian
+X-SOCIALPROFILE;type=Discord;x-user=thearctesian:x-apple:thearctesian
 item3.URL;type=pref:https://danielokita.com
 item3.X-ABLabel:_$!<HomePage>!$_
 BDAY:2004-09-27
