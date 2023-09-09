@@ -7,8 +7,8 @@
 
   onMount(() => {
     const link = document.createElement('a');
-    link.href = '/StephenOkita.vcf';
-    link.download = 'StephenOkita.vcf';
+    link.href = '/Okita_Stephen.vcf';
+    link.download = 'Okita_Stephen.vcf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -17,7 +17,7 @@
 
 <!-- <button on:click={saveFile}>Save File</button> -->
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="/StephenOkita.vcf" download> Save Contact</a>
+  <a href="/Okita_Stephen.vcf" download> Save Contact</a>
 </div>
   <!-- Display other relevant contact information -->
 
