@@ -4,9 +4,10 @@ PRODID:-//Apple Inc.//iPhone OS 16.6//EN
 N:Okita;Stephen;;;
 FN:Stephen Okita
 EMAIL;type=INTERNET;type=WORK;type=pref:me@danielokita.com
+EMAIL;type=INTERNET;type=PERSONAL;type=pref:stephen.d.okita@gmail.com
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+852 6072 1229
 TEL;type=IPHONE;type=CELL;type=VOICE:(415) 539-9606
-item1.ADR;type=HOME;type=pref:;;Putnam 604\n2560 Durant Ave;Berkeley ;CA;94720;United States
+item1.ADR;type=HOME;type=pref:;;Putnam 604\n2650 Durant Ave;Berkeley ;CA;94720;United States
 item1.X-ABADR:us
 item2.ADR;type=HOME:;;House 120\nTai Hang Hau Village;Clearwater Bay;;NT;Hong Kong
 item2.X-ABADR:hk
