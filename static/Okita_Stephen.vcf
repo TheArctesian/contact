@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 16.6//EN
 N:Okita;Stephen;;;
-FN:Stephen Okita
+FN:Stephen Daniel Okita
 EMAIL;type=INTERNET;type=WORK;type=pref:me@danielokita.com
 EMAIL;type=INTERNET;type=PERSONAL;type=pref:stephen.d.okita@gmail.com
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+852 6072 1229
@@ -16,7 +16,7 @@ X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/https%3A//www.linkedin.
 X-SOCIALPROFILE;type=Snapchat;x-user=stephenokita1:x-apple:stephenokita1
 X-SOCIALPROFILE;type=GitHub;x-user=thearctesian:x-apple:thearctesian
 X-SOCIALPROFILE;type=Discord;x-user=thearctesian:x-apple:thearctesian
-item3.URL;type=pref:https://danielokita.com
+item3.URL;type=pref:https://stephenokita.com
 item3.X-ABLabel:_$!<HomePage>!$_
 BDAY:2004-09-27
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBMRXhpZgAATU0AKgAA
