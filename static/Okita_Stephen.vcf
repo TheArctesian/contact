@@ -3,16 +3,14 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 16.6//EN
 N:Okita;Stephen;;;
 FN:Stephen Daniel Okita
-EMAIL;type=INTERNET;type=WORK;type=pref:me@danielokita.com
 EMAIL;type=INTERNET;type=PERSONAL;type=pref:stephen.d.okita@gmail.com
 EMAIL;type=INTERNET;type=School;type=pref:sdokita@berkeley.edu
-TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+852 6072 1229
+EMAIL;type=INTERNET;type=WORK;type=pref:me@danielokita.com
 TEL;type=IPHONE;type=CELL;type=VOICE:(415) 539-9606
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+852 6072 1229
 X-SOCIALPROFILE;type=Instagram;x-user=stephen.okita:x-apple:stephen.okita
-X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/stephen-okita/
-X-SOCIALPROFILE;type=Snapchat;x-user=stephenokita1:x-apple:stephenokita1
+X-SOCIALPROFILE;type=Linkedin:https://www.linkedin.com/in/stephen-okita/
 X-SOCIALPROFILE;type=GitHub;x-user=thearctesian:x-apple:thearctesian
-X-SOCIALPROFILE;type=Discord;x-user=thearctesian:x-apple:thearctesian
 item3.URL;type=pref:https://stephenokita.com
 item3.X-ABLabel:_$!<HomePage>!$_
 BDAY:2004-09-27
