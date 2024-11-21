@@ -23,6 +23,7 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-vercel": "^3.0.3",
+		"@vercel/analytics": "^1.4.1",
 		"vcf": "^2.1.1"
 	}
 }
